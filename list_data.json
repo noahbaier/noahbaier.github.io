@@ -1,22 +1,32 @@
 {
-	"movies": [
-		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
-		},
-		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
-		},
-		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
-		}
-	]
+    "movies": [
+        {
+            "Title": "The Wolf of Wall Street",
+            "Director": "Martin Scorsese",
+            "Release Year": 2013,
+            "Gross Income": "$392 million",
+            "Description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stockbroker living the high life to his fall involving crime, corruption, and the federal government."
+        },
+        {
+            "Title": "Inception",
+            "Director": "Christopher Nolan",
+            "Release Year": 2010,
+            "Gross Income": "$836 million",
+            "Description": "A thief who enters the dreams of others in order to steal their secrets must plant an idea into the mind of a target."
+        },
+        {
+            "Title": "Into the Wild",
+            "Director": "Sean Penn",
+            "Release Year": 2007,
+            "Gross Income": "$56 million",
+            "Description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire savings to charity and hitchhikes to Alaska to live in the wilderness."
+        },
+        {
+            "Title": "Project X",
+            "Director": "Nima Nourizadeh",
+            "Release Year": 2012,
+            "Gross Income": "$102 million",
+            "Description": "Three high school seniors throw a birthday party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads."
+        }
+    ]
 }
